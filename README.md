@@ -4,6 +4,12 @@ SmartBoiler is an Android app that helps you heat water only when needed.
 
 It is designed for homes with a **hybrid solar + electric boiler**. The app looks at your shower plan and today’s weather, then decides whether solar should be enough or if it should turn on electric heating.
 
+![Screenshot_2026-02-26-17-58-40-44_680f1e6db27a1e33d27d6ea7fe8fe308](https://github.com/user-attachments/assets/23bae805-a2fe-404c-87c4-a316426f556d)
+
+![Screenshot_2026-02-26-17-58-52-23_680f1e6db27a1e33d27d6ea7fe8fe308](https://github.com/user-attachments/assets/c6b63690-6b39-4355-9758-7ff55985bbf5)
+
+
+
 ## At a glance
 
 - **What it does:** Plans boiler heating based on shower schedule + weather.
