@@ -1,0 +1,12 @@
+{
+  "appName": "dud",
+  "displayName": "dud",
+  "description": "Smart boiler control integration",
+  "singleInstance": true,
+  "classifications": [
+    "CONNECTED_SERVICE"
+  ],
+  "webhookSmartApp": {
+    "targetUrl": "https://YOUR_DOMAIN/smartboiler/webhook"
+  }
+}

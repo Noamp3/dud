@@ -1,0 +1,10 @@
+{
+  "clientName": "dud",
+  "scope": [
+    "r:devices:*",
+    "x:devices:*"
+  ],
+  "redirectUris": [
+    "smartboiler://oauth/callback"
+  ]
+}
