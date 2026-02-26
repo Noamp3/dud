@@ -1,4 +1,4 @@
-# SmartBoiler
+# SmartBoiler (DUD)
 
 SmartBoiler is an Android app that helps you heat water only when needed.
 
